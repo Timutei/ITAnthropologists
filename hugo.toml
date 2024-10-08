@@ -1,0 +1,4 @@
+baseURL = 'https://ITAnthropologists.com/'
+languageCode = 'en-us'
+title = 'IT Anthropologists'
+theme = 'ananke'
