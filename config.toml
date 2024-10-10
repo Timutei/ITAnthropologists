@@ -1,5 +1,5 @@
 otitle = "IT Anthropologists"
-baseURL = "https://ITAnthropologists.pages.dev"
+baseURL = "https://ITAnthropologists.com"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
