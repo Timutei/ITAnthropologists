@@ -1,6 +1,7 @@
 title = "IT Anthropologists"
 baseURL = "https://ITAnthropologists.com"
 languageCode = "en-us"
-theme = 'ananke'
+# theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
 [params]
 	social = true
