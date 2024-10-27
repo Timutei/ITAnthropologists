@@ -1,0 +1,6 @@
+title = "IT Anthropologists"
+baseURL = "https://ITAnthropologists.com"
+languageCode = "en-us"
+theme = 'ananke'
+[params]
+	social = true
