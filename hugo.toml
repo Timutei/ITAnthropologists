@@ -4,4 +4,15 @@ languageCode = "en-us"
 # theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 theme = "ananke"
 [params]
-	social = true
+  description = "A lifetime study and apology for IT"
+  author = "Tim Chaffe"
+  showSocial = true
+  showDate = true
+#  googleAnalytics = "UA-XXXXXXXXX-X"
+#  disqusShortname = "your-disqus-shortname"
+#  customCSS = ["css/custom.css"]
+
+[social]
+  github = "https://github.com/Timutei"
+  linkedin = "https://www.linkedin.com/in/timchaffe/"
+ # twitter = "https://twitter.com/yourusername"
