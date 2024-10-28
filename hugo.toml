@@ -16,3 +16,24 @@ theme = "ananke"
   github = "https://github.com/Timutei"
   linkedin = "https://www.linkedin.com/in/timchaffe/"
  # twitter = "https://twitter.com/yourusername"
+ 
+ [menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
