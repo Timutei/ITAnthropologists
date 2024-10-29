@@ -9,18 +9,14 @@ back.
 
 Why the name ITAnthropologists ? 
 
-Apart from the need to apologise for the impact of IT on humanity,
+Apart from the need to apologise for the impact of IT on humanity (ITApologist),
 I believe that people are an essential component of any solution path 
 that is often overlooked
 
 Technology can only do so much. It's an enabler. How it is used and
-misused is down to the humans involved.
+misused is down to the humans involved. (Linking in Anthro)
 
-IT also suffers awful communication mismatches with folk struggling to
-comprehend the (often multi-million) decisions forced upon them.
-
-So I will try and raise a smile while observing some of my journy's 
-learnings.
+I've long been a blog/social media sceptic, so this will be a work in progress.
 
 Hope you enjoy.
 Tim
