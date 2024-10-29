@@ -13,4 +13,4 @@ Now trying 1Writer
 
 Discovering the pitfalls of crap developers in iOS 
 
-So I can edit in Working Copy Directly
+So I can edit posts using Working Copy
