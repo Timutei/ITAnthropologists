@@ -5,4 +5,4 @@ draft = false
 +++
 ## Introduction
 
-Navigating Git, Hugo and CloudFlare. Lets see how easy this is!
+Navigating Git, Hugo and CloudFlare. Let’s see how easy this is!
