@@ -20,5 +20,5 @@ I've long been a blog/social media sceptic, so this will be a work in progress.
 
 Hope you enjoy.
 Tim
-(NB: Frustration will apear as I navigate the byzantine wasteland that is called github)
+(NB: Frustration will apear as I navigate the byzantine wasteland that is called github *#^%*)
  
