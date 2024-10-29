@@ -8,3 +8,5 @@ draft = false
 Navigating Git, Hugo and CloudFlare. Let’s see how easy this is!
 
 Trying IA Writer saving to Working Copy connected to GitHub.
+
+Now trying Byword
