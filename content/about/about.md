@@ -1,7 +1,7 @@
 +++ 
 title = 'About' 
-date = 2024-10-27T18:41:19+13:00 
-draft = true
+date = 2024-10-29
+draft = false
 +++
 I've spent some forty years surfing technology. I've been fortunate
 having a wide and varied career and its about time I gave something
