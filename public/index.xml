@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT Anthropologists</title>
-    <link>https://ITAnthropologists.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on IT Anthropologists</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://ITAnthropologists.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 18:41:19 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 27 Oct 2024 18:41:19 +1300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve spent some forty years surfing technology. I&amp;rsquo;ve been fortunate&#xA;having a wide and varied career and its about time I gave something&#xA;back.&lt;/p&gt;&#xA;&lt;p&gt;Why the name ITAnthropologists ?&lt;/p&gt;&#xA;&lt;p&gt;Apart from the need to apologise for the impact of IT on humanity (ITApologist),&#xA;I believe that people are an essential component of any solution path&#xA;that is often overlooked&lt;/p&gt;&#xA;&lt;p&gt;Technology can only do so much. It&amp;rsquo;s an enabler. How it is used and&#xA;misused is down to the humans involved. (Linking in Anthro)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Getting Started</title>
-      <link>https://ITAnthropologists.com/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://ITAnthropologists.com/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Navigating Git, Hugo and CloudFlare. Lets see how easy this is!&lt;/p&gt;</description>
     </item>
   </channel>
