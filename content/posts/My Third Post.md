@@ -12,3 +12,5 @@ Trying IA Writer saving to Working Copy connected to GitHub.
 Now trying 1Writer
 
 Discovering the pitfalls of crap developers in iOS 
+
+So I can edit in Working Copy Directly
