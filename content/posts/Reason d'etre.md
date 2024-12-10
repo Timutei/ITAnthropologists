@@ -5,9 +5,9 @@ draft = false
 +++
 ## Introduction
 
-I was bitten by the computing bug at the age of fifteen. Like many others it started with an Apple IIe in my computing class. 
+I was bitten by the computing bug at the age of fifteen. Like many others of my generation it started with an Apple IIe in my computing class. 
 
-It grabbed my attention with such intensity that I was late for following classes. I remember being confused by the statement i = i + 1. How was that mathematically possible! Fortunately I wasn’t able to take it home otherwise my school work would have been severely impacted.
+It grabbed my attention with such intensity that I was often late for following classes. I remember being confused by the statement i = i + 1. How was that mathematically possible! Fortunately I wasn’t able to take it home otherwise my school work would see have been severely impacted.
 
 Looking back that was an early taste of the attention grabbing power of computing devices…
 
