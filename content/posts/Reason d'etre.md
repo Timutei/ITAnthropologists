@@ -22,4 +22,4 @@ Now on reflection I’ve reached an understanding (at least for me). I’m going
 I hope readers find it useful. At the very least it’s now out of my head! 
 
 
-
+© 2025 ITAnthropologists. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

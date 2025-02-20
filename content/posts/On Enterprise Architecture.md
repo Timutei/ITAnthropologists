@@ -16,3 +16,5 @@ Enterprises unless well led often lose touch with how or why they do what they d
 Enterprise Architecture exists to ensure that there is an overall understanding of that complexity. The ‘Why’ of IT.
 
 Solutions Architecture is much easier to understand. We have a problem. How do we solve it ? Usually confined to ‘How do we solve it technically?’ 
+
+© 2025 ITAnthropologists. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

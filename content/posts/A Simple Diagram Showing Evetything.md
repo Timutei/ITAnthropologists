@@ -16,7 +16,7 @@ Given the plethora of systems on the floor there wasn’t enough space on the pa
 The task served its purpose. My last memory of that document was seeing it on a shelf dusty and bereft during one of our regular moves. 
 
 
-
+© 2025 ITAnthropologists. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
 

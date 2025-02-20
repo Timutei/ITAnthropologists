@@ -43,3 +43,5 @@ Puzzled I asked why.
 Hence the term **Reasonable Man**.
 
 As I grew older and was given more managerial responsibility I realised that at some stage in our careers we all become ‘Reasonable Men’ 
+
+© 2025 ITAnthropologists. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

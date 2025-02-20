@@ -13,3 +13,4 @@ Experiments with decriminalisation have not worked, especially those not backed 
 
 Societal views are entrenched and increasingly partisan. 
 
+© 2025 ITAnthropologists. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
