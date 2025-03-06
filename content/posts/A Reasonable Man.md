@@ -1,5 +1,5 @@
 +++
-title = 'Reasonable Man'
+title = 'A Reasonable Man'
 date = 2024-11-22T07:07:07+01:00
 draft = true
 +++
@@ -18,7 +18,7 @@ This arose from an incident where I and my partner-in-crime were working on esta
 
 This was the age where telecommunications companies owned the golden goose. Monopolies that printed money on the back of voice minutes. To meet targets, product managers reduced per minute charges thereby increasing volume driving revenue and profit (people back then loved to talk to each other, a reducing trend nowadays)
 
-So the product manager weren’t keen on this messaging hub concept. It was small potatoes (millions in revenue) versus voice (hundreds of millions).
+So the product manager wasn’t  keen on this messaging hub concept. It was small potatoes (millions in revenue) versus voice (hundreds of millions).
 
 But we persisted, working with Schlumberger targeting the Oil and Gas industry who desperately needed electronic communications with their customer and partner base. (Not to mention they worked in locations with low bandwidth so text-based communication was preferable and less expensive than international calls, another reason voice product managers were leery)
 
