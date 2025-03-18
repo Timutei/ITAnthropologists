@@ -3,7 +3,6 @@ title = 'Background'
 date = 2024-01-14T07:07:07+01:00
 draft = false
 +++
-## Introduction
 
 I was bitten by the computing bug at the age of fifteen. Like many others of my generation it started with an Apple IIe in my computing class. 
 

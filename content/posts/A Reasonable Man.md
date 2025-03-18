@@ -3,7 +3,7 @@ title = 'A Reasonable Man'
 date = 2024-11-22T07:07:07+01:00
 draft = true
 +++
-## Introduction
+
 I’ve had the privilege of working for many different managers, men and women. Good people all of them.
 
 Watching them in my early days hardened my resolve to not be a manager. Managing people I viewed as difficult. Besides technology was much more interesting and easier to control.
@@ -32,7 +32,7 @@ He sat me down, congratulated me on the trial and then very nicely gave me the b
 
 This caused a moment of consternation with a sharp intake of breath, especially to the side of the room. 
 
-I was ushered from the room being told ‘We will get back to you’
+I was ushered out of the office being told ‘We will get back to you’
 
 A couple of weeks later, I was called back. “We have decided to go ahead” my boss announced supported by a smiled grimace from the product manager. “But” he paused. “We won’t be able to use your budget”.
 

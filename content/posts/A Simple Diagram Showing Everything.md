@@ -3,7 +3,6 @@ title = 'A Simple Diagram Showing Everything'
 date = 2024-01-14T07:07:07+01:00
 draft = true
 +++
-## Introduction
 
 My first introduction to anything resembling Enterprise Architecture was in the bowels of a large telecommunications company in Hong Kong,
 

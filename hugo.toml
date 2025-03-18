@@ -1,39 +1,57 @@
-title = "IT Anthropologists"
 baseURL = "https://ITAnthropologists.com"
 languageCode = "en-us"
-# theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-theme = "ananke"
+theme = "PaperMod"
+title = "ITAnthropologists"
+content = "Exploring the intersection of IT and Anthropology" 
+showFullTitle = true
+PageSize = 5
+
+[[module.imports]]
+path = "github.com/adityatelange/hugo-PaperMod"
+
 [params]
-  description = "A lifetime study and apology for IT"
+  description = "A lifetime study/apology for IT and other thoughts"
   author = "Tim Chaffe"
-  showSocial = true
+  showSocial = false
   showDate = true
-#  googleAnalytics = "UA-XXXXXXXXX-X"
-#  disqusShortname = "your-disqus-shortname"
-#  customCSS = ["css/custom.css"]
+  show_related_posts = true
+  ShowReadingTime = true
+  date_format = "January 2, 2006"
+  ShowShareButtons = true
+  ShowToc = true
+  TocOpen = false
+  ShowPostNavLinks = true
+  defaultTheme = "auto"
+  UseHugoToc = true
+  ShowBreadCrumbs = true
+  keywords = ["IT", "Anthropology", "Technology"]
 
-[social]
-  github = "https://github.com/Timutei"
-  linkedin = "https://www.linkedin.com/in/timchaffe/"
- # twitter = "https://twitter.com/yourusername"
- 
- [menu]
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
+[menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Posts"
+    url = "/posts/"
     weight = 2
 
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
+    name = "About"
+    url = "/about/"
     weight = 3
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+
+[social]
+  github = "https://github.com/Timutei"
+  linkedin = "https://www.linkedin.com/in/timchaffe/"

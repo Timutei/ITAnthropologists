@@ -1,9 +1,8 @@
 +++
 title = 'On Enterprise Architecture'
-date = 2025-03-7T07:07:07+01:00
+date = 2025-03-07T07:07:07+01:00
 draft = true
 +++
-## Introduction
 
 Enterprise Architecture is a complex abstraction. It’s not easy to define or explain.
 
