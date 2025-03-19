@@ -11,7 +11,7 @@ Apart from the need to apologise for the impact of IT on humanity, I believe tha
 
 Technology can only do so much. It's an enabler. How it is used and misused is down to the humans involved.
 
-Hence the composite 'ITAntropologist'. If you remove 'ntro' it may raise a smile.
+Hence the composite 'ITAnthropologist'. If you remove 'nthro' it may raise a smile.
 
 I've long been a blog/social media sceptic (Twitter is for twits, X is for super twits...), so this will be a work in progress.
 
