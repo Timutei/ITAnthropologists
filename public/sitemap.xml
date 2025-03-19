@@ -2,38 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ITAnthropologists.com/posts/a-simple-diagram-showing-everything/</loc>
+    <lastmod>2025-03-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://ITAnthropologists.com/</loc>
+    <lastmod>2025-03-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://ITAnthropologists.com/posts/</loc>
+    <lastmod>2025-03-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://ITAnthropologists.com/posts/on-enterprise-architecture/</loc>
     <lastmod>2025-03-07T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/on-enterprise-architecture/</loc>
+    <loc>https://ITAnthropologists.com/posts/the-inevitability-of-algorithms/</loc>
     <lastmod>2025-03-07T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-07T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-insanity-of-illegal-drugs/</loc>
-    <lastmod>2024-11-24T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/a-reasonable-man/</loc>
-    <lastmod>2024-11-22T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
+    <loc>https://ITAnthropologists.com/about/about/</loc>
     <lastmod>2024-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://ITAnthropologists.com/about/</loc>
     <lastmod>2024-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the-inevitability-of-algorithms/</loc>
-    <lastmod>2024-03-07T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/a-simple-diagram-showing-evetything/</loc>
+    <loc>https://ITAnthropologists.com/posts/reason-detre/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/reason-detre/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>https://ITAnthropologists.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ITAnthropologists.com/tags/</loc>
   </url>
 </urlset>

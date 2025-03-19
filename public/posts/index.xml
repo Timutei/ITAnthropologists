@@ -2,62 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ITAnthropologists</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://ITAnthropologists.com/posts/</link>
     <description>Recent content in Posts on ITAnthropologists</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On Enterprise Architecture</title>
-      <link>http://localhost:1313/posts/on-enterprise-architecture/</link>
-      <pubDate>Fri, 07 Mar 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/on-enterprise-architecture/</guid>
-      <description>&lt;p&gt;Enterprise Architecture is a complex abstraction. It’s not easy to define or explain.&lt;/p&gt;
-&lt;p&gt;Ironically explanation is at the heart of its function. Its purpose is to holistically shine light on how enterprises work and then use that information to guide decision making.&lt;/p&gt;
-&lt;p&gt;However a poorly understood function emanating from information technology purporting to have the ability to guide business decisions may not be well received.&lt;/p&gt;
-&lt;p&gt;Enterprises unless well led often lose touch with how or why they do what they do. The more humans involved the wider the diversity of activity. The longer an organisation exists the more IT detritus (sorry systems and processes) it lays down to achieve its goals with multitudes of drivers over time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Illegal Drugs: Addicted to Failure</title>
-      <link>http://localhost:1313/posts/the-insanity-of-illegal-drugs/</link>
-      <pubDate>Sun, 24 Nov 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/the-insanity-of-illegal-drugs/</guid>
-      <description>&lt;p&gt;Historically societies have not fared well banning things. The cost of illegal drugs financially and to the well being of New Zealand is immense.&lt;/p&gt;
-&lt;p&gt;Our drug problem is growing, crime and gangs are increasing, people do not feel safe. Narcotics are growing more lethal (fentanyl). Countries expend a lot of money playing whack a mole. High scores are achieved with no beneficial outcomes.&lt;/p&gt;
-&lt;p&gt;Experiments with decriminalisation have not worked, especially those not backed with health services. Harmful substances need regulation and controlled distribution.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Reasonable Man</title>
-      <link>http://localhost:1313/posts/a-reasonable-man/</link>
-      <pubDate>Fri, 22 Nov 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/a-reasonable-man/</guid>
-      <description>&lt;p&gt;I’ve had the privilege of working for many different managers, men and women. Good people all of them.&lt;/p&gt;
-&lt;p&gt;Watching them in my early days hardened my resolve to not be a manager. Managing people I viewed as difficult. Besides technology was much more interesting and easier to control.&lt;/p&gt;
-&lt;p&gt;Unfortunately as I learned and achieved more, the powers-that-be decided I should take on managerial responsibility. They of course did this with minimal training. HR in the 80s and 90s was about entry-to and exit-from the organisation, remuneration, payroll and perks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>http://localhost:1313/posts/the-inevitability-of-algorithms/</link>
-      <pubDate>Thu, 07 Mar 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/the-inevitability-of-algorithms/</guid>
-      <description>&lt;p&gt;I remember queuing to pay for parking one time. It was taking longer than usual as for this particular car park they had a different way of paying. While completely digital it was manual, new and required thinking about. The growing length of the queue indicated the effectiveness of the algorithm.&lt;/p&gt;
-&lt;p&gt;Algorithms affect our daily lives. They implement rules determined locally, regionally and nationally.  From surcharges on financial payments to taxes on sales.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 14 Mar 2025 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://ITAnthropologists.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Simple Diagram Showing Everything</title>
-      <link>http://localhost:1313/posts/a-simple-diagram-showing-evetything/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/a-simple-diagram-showing-evetything/</guid>
+      <link>https://ITAnthropologists.com/posts/a-simple-diagram-showing-everything/</link>
+      <pubDate>Fri, 14 Mar 2025 07:07:07 +0100</pubDate>
+      <guid>https://ITAnthropologists.com/posts/a-simple-diagram-showing-everything/</guid>
       <description>&lt;p&gt;My first introduction to anything resembling Enterprise Architecture was in the bowels of a large telecommunications company in Hong Kong,&lt;/p&gt;
 &lt;p&gt;A new boss of the IT engineering group had arrived and was trying to get his head around the significant scale and scope of the kit he was responsible for.&lt;/p&gt;
 &lt;p&gt;Can you create for me ‘A simple diagram showing everything’ was the request he gave to me. Given this was the early 1990s a non trivial request.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>On Enterprise Architecture</title>
+      <link>https://ITAnthropologists.com/posts/on-enterprise-architecture/</link>
+      <pubDate>Fri, 07 Mar 2025 07:07:07 +0100</pubDate>
+      <guid>https://ITAnthropologists.com/posts/on-enterprise-architecture/</guid>
+      <description>&lt;p&gt;Enterprise Architecture is a complex abstraction. It’s not easy to define or explain.&lt;/p&gt;
+&lt;p&gt;Ironically explanation is at the heart of its function. Its purpose is to holistically shine light on how enterprises work and then use that information to guide decision making.&lt;/p&gt;
+&lt;p&gt;However a poorly understood function emanating from information technology purporting to have the ability to guide business decisions may not be well received.&lt;/p&gt;
+&lt;p&gt;Enterprises often lose touch with how or why they do what they do. The more humans involved the wider the diversity of activity. The longer an organisation exists the more IT detritus (sorry systems and processes) gathers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The inevitability of algorithms</title>
+      <link>https://ITAnthropologists.com/posts/the-inevitability-of-algorithms/</link>
+      <pubDate>Fri, 07 Mar 2025 07:07:07 +0100</pubDate>
+      <guid>https://ITAnthropologists.com/posts/the-inevitability-of-algorithms/</guid>
+      <description>&lt;p&gt;I remember queuing to pay for parking one time. It was taking longer than usual as for this particular car park they had a different way of paying. While completely digital it was manual, new and required thinking about. The growing length of the queue indicated the effectiveness of the algorithm.&lt;/p&gt;
+&lt;p&gt;Algorithms affect our daily lives. They implement rules determined locally, regionally and nationally.  From surcharges on financial payments to taxes on sales.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Background</title>
-      <link>http://localhost:1313/posts/reason-detre/</link>
+      <link>https://ITAnthropologists.com/posts/reason-detre/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/reason-detre/</guid>
+      <guid>https://ITAnthropologists.com/posts/reason-detre/</guid>
       <description>&lt;p&gt;I was bitten by the computing bug at the age of fifteen. Like many others of my generation it started with an Apple IIe in my computing class.&lt;/p&gt;
 &lt;p&gt;It grabbed my attention with such intensity that I was often late for following classes. I remember being confused by the statement i = i + 1. How was that mathematically possible! Fortunately I wasn’t able to take it home otherwise my school work would see have been severely impacted.&lt;/p&gt;</description>
     </item>

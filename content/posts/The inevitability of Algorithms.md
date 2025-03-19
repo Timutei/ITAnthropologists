@@ -1,7 +1,7 @@
 +++
-title = 'Theme'
-date = 2024-03-07T07:07:07+01:00
-draft = true
+title = 'The inevitability of algorithms'
+date = 2025-03-07T07:07:07+01:00
+draft = false
 +++
 
 I remember queuing to pay for parking one time. It was taking longer than usual as for this particular car park they had a different way of paying. While completely digital it was manual, new and required thinking about. The growing length of the queue indicated the effectiveness of the algorithm.
